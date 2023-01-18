@@ -1,6 +1,5 @@
-def fizz_buzz(string_0, string_1):
+def fizz_buzz(number):
     # your code goes here
-    ...
 
 
     
