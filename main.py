@@ -1,5 +1,6 @@
 def fizz_buzz(number):
-    # your code goes here
+  ... 
+  # your code goes here
 
 
     
