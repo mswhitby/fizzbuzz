@@ -22,4 +22,5 @@ Create a function that takes a number as an argument and returns `"Fizz"`, `"Buz
 
 
 [Start Problem](https://replit.com/team/whs-spring-2023/Fizz-Buzz)
+[Join Replit Classroom](https://replit.com/teams/join/ciwokbvrowmmulyjrztgezuxhnyrnvgj-whs-spring-2023)
 
